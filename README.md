@@ -43,7 +43,8 @@ SCINS_string_formatted = generator.Calculate_SCINS("code")
 print(SCINS_string_formatted)
 ```
 
-####Relevant papers: 
+#### Relevant papers
+
 [1] Schuffenhauer, A., Brown, N., Ertl, P., Jenkins, J. L., & Selzer, P. (2007). Biological Activity Space. Journal of Chemical Information and Modeling, 325–336. https://doi.org/10.1021/ci6004004
 
 [2] Bender, A., Jenkins, J. L., Scheiber, J., Sukuru, S. C. K., Glick, M., & Davies, J. W. (2009). How similar are similarity searching methods? A principal component analysis of molecular descriptor space. Journal of Chemical Information and Modeling, 49(1), 108–119. https://doi.org/10.1021/ci800249s
