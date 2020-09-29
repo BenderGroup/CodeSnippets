@@ -1,3 +1,7 @@
+
+#Author : Paul Katzberger
+#Contact: kpaul@student.ethz.ch
+
 import numpy as np
 from rdkit import Chem
 from rdkit.Chem.Scaffolds import MurckoScaffold
