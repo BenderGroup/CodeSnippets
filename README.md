@@ -3,6 +3,9 @@ Small snippets of code which don't require their own repository
 
 ## SCINS
 
+Author : Paul Katzberger
+Contact: kpaul@student.ethz.ch
+
 #### Definition of SCINS [1]
 SCINS describes a reduced graph of the scaffold of a molecule. It is characterized by a string of numbers in the format ABCDE-FGHI-JKLM.
 
